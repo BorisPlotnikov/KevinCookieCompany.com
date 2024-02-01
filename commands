@@ -1,0 +1,21 @@
+Git & Github Tutorial
+
+1.  git config --global user.name “Boris”
+2.  git config --global user.email 1@1
+3.  git config --global init.defaultBranch main
+4.  git config -h
+5.  git help config
+6.  clear
+7.  git initialize
+8.  git init
+9.  git status
+10. git add index.htm
+11. touch .gitignore
+12. # ignore all .txt files
+13. .txt 
+14. git rm --cached index.htm
+15. git add --all 
+16. git add -A  
+17. git add .
+18. git 
+
