@@ -19,6 +19,10 @@ Git & Github Tutorial
 17. git add .
 18. git commit -m "first commit - committing all files to the repository"
 19. git restore --staged index.htm
-20. 
+20. git commit -a -m "updated to free range"
+21. rm "secret recipe.htm"
+22. git restore "secret recipe.htm"
+23. git mv "KCC Logo.png" "Primary Logo.png"
+24.   
 
 
