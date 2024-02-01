@@ -23,6 +23,12 @@ Git & Github Tutorial
 21. rm "secret recipe.htm"
 22. git restore "secret recipe.htm"
 23. git mv "KCC Logo.png" "Primary Logo.png"
-24.   
+24. git log
+25. git log --oneline
+26. git commit -m "Changed the name" --amend
+27. git log -p
+28. git help log
+29. git reset e651931
+ 
 
 
