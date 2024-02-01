@@ -17,5 +17,8 @@ Git & Github Tutorial
 15. git add --all 
 16. git add -A  
 17. git add .
-18. git 
+18. git commit -m "first commit - committing all files to the repository"
+19. git restore --staged index.htm
+20. 
+
 
